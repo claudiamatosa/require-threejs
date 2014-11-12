@@ -1,0 +1,9 @@
+logs/*
+!.gitkeep
+node_modules/
+app/vendor/
+dist/
+tmp
+.DS_Store
+.idea
+.brackets.json

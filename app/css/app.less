@@ -1,0 +1,22 @@
+@import "_includes.less";
+
+body {
+    * {
+        .box-sizing(border-box);
+    }
+}
+
+a {
+    &:link, &:visited {
+        color: @grey-dark;
+        text-decoration: none;
+    }
+    
+    &:hover {
+        color: @black;
+    }
+}
+
+[ng-cloak] {
+    display: none;
+}
