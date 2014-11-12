@@ -1,0 +1,38 @@
+/**
+ * Shared variables
+ */
+/**
+ * External mixins
+ */
+/**
+ * Layout
+ *
+ * Mixins related to the layout of the page.
+ */
+/*
+## Colours
+*/
+/*
+ As seen in http://www.thedotmack.com/2013/11/18/less-media-query-mixins/
+ */
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+body * {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+a:link,
+a:visited {
+  color: #333333;
+  text-decoration: none;
+}
+a:hover {
+  color: #000000;
+}
+[ng-cloak] {
+  display: none;
+}

@@ -6,7 +6,6 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "html5-boilerplate": "~4.3.0",
     "requirejs": "~2.1.15",
     "threejs": "*",
     "requirejs-text": "~2.0.12"
