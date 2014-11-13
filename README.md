@@ -6,8 +6,6 @@ Although the final scene is simply an adaptation from the introduction tutorial 
 
 This is a work in progress.
 
-[![Build Status](https://travis-ci.org/claudiamatosa/require-threejs.svg?branch=master)](https://travis-ci.org/claudiamatosa/require-threejs)
-
 ### Runing the project
 
 Install nodeJS, then run, from the root directory:
